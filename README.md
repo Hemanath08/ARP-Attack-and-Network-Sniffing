@@ -53,9 +53,12 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
-
-
 Invoke the wireshark and examine the various menus  and controls of the tool:
+
+<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/6cc98ba8-574f-4954-a9a6-c0501927b5f6" />
+
+## Ettercap:
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/e4ee0610-db55-432c-82b4-8958c83545ff" />
 
 
 ## RESULT:
